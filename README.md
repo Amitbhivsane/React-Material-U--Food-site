@@ -3,7 +3,7 @@
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-# `Home Page` 
+### `Home Page` 
 
 ![Screenshot 2024-03-13 100707](https://github.com/Amitbhivsane/React-Material-U--Food-site/assets/108190320/6da2e42a-6ee6-49fc-ba9a-5aec0f137372)
 
